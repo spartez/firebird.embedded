@@ -2,7 +2,7 @@
 <package xmlns="http://schemas.microsoft.com/packaging/2010/07/nuspec.xsd">
     <metadata>
         <id>Spartez.Firebird.Embedded</id>
-        <version>3.0.2.327031</version>
+        <version>3.0.6.33328</version>
         <title>Spartez.Firebird.Embedded</title>
         <authors>Ronald Rogers,Spartez</authors>
         <projectUrl>https://github.com/spartez/firebird.embedded</projectUrl>
@@ -12,7 +12,7 @@
         <summary>Ez-pz embedding of the Firebird SQL RDBMS database.</summary>
         <releaseNotes />
         <dependencies>
-            <dependency id="FirebirdSql.Data.FirebirdClient" version="5.0.0" />
+            <dependency id="FirebirdSql.Data.FirebirdClient" version="7.5.0" />
         </dependencies>
     </metadata>
     <files>
